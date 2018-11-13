@@ -2,7 +2,7 @@
 This is a supplemantary repository to hold [shinyMRI](https://github.com/hebrewseniorlife/shinyMRI) toy data.
 
 ## Data Source:
-Data from https://openneuro.org/datasets/ds000030/versions/00016 
+This data was obtained from the OpenfMRI database (https://openfmri.org/dataset/ds000030/). Its accession number is ds000030. 
 
 |File name|Source sub-folder|
 |-|-|
